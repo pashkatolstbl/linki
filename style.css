@@ -1,0 +1,22 @@
+.bold {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+a {
+    text-decoration: none;
+    color: rgb(151, 42, 42);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container {
+    background-color: yellow;
+    padding: 1%;
+}
+.container1 {
+    background-color: rgb(7, 240, 240);
+    padding: 1%;
+}
+.container2 {
+    background-color: palegreen;
+    padding: 1%;
+}
